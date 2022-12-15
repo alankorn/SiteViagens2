@@ -1,0 +1,39 @@
+.onibus{
+    width: 30%;
+    margin: 1.5%;
+}
+.img_bus1, .img_bus2, .img_bus3{
+    background-color: #29bcf8;
+    max-width: 45%;
+    border-radius: 8%;
+    text-align: center;
+    justify-content: space-around;
+    padding: 1.52%;
+    margin: 1%;
+    max-width: 45%;
+    background-image: linear-gradient(to right, #29bcf8, #148cbb);
+    
+
+
+}
+.container_2{
+    display: inline-flex;
+    
+    
+    
+}
+
+.botao-acesse{
+    background-color: #29bcf8;
+    border-radius: 20px;
+    max-width: 55%;
+    border-color: none;
+
+}
+.botao-acesse:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+    
+}
+
