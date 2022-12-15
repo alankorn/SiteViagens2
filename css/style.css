@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap'); 
 .onibus{
     width: 30%;
-    margin: 1.5%;
+    
 }
 .img_bus1, .img_bus2, .img_bus3{
     background-color: #29bcf8;
@@ -11,7 +11,7 @@
     justify-content: space-around;
     padding: 1.52%;
     margin: 1%;
-    max-width: 45%;
+    
     background-image: linear-gradient(to right, #29bcf8, #148cbb);
     color: rgb(228, 224, 224);
     
